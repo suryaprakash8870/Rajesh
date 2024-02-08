@@ -1,0 +1,5 @@
+Step 1- Install node js and Vs code
+Stpe 2- Open project in Vs code and Open terminal 
+Step 3- Type npm i 
+Step 4- To run this project npm run dev 
+ 
