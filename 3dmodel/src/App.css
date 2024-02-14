@@ -1,0 +1,9 @@
+:root {
+  --bg-black: #111;
+  --bg-card: #171717;
+  --bg-cardinside: #333333;
+}
+body {
+  background-color: var(--bg-black);
+  color: #fff;
+}
