@@ -2,7 +2,7 @@ import React from "react";
 import { Grid, Typography } from "@mui/material";
 import Car from "../compoents/Car";
 import Map from "../compoents/Map";
-import Icons from "../compoents/Icons";
+import CarInfoCard from "../compoents/Icons";
 const Main = () => {
   return (
     <Grid container spacing={5} padding={2}>
@@ -43,7 +43,7 @@ const Main = () => {
                 padding: "20px",
               }}
             >
-              <Icons />
+              <CarInfoCard />
             </div>
           </Grid>
         </div>
